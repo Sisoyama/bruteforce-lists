@@ -408,7 +408,7 @@ ajax_filters_2.asp
 ajax_fissa_anagrafica.asp
 ajax_gera_token.asp
 ajax_get_announcement.asp
-ajax_get_instagram.asp
+ajax_get_instaram.asp
 ajax_get_open_timer.asp
 ajax_getbgmtopten.asp
 ajax_getdownloadusercnt.asp
